@@ -1,0 +1,14 @@
+module.exports = {
+    mainnet: {
+        DAI: "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+        USDC: "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        USDT: "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        WETH: "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+    },
+    testnet: {
+        DAI: "0xad6d458402f60fd3bd25163575031acdce07538d",
+        USDC: "0x110a13fc3efe6a245b50102d2d529b427d3424e6",
+        USDT: "0x110a13fc3efe6a245b50102d2d529b427d3424e6",
+        WETH: "0xc778417e063141139fce010982780140aa0cd5ab"
+    }
+}; 
