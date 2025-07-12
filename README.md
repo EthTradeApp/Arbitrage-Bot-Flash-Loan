@@ -142,9 +142,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-- **Email**: nigel.russell.luck@gmail.com
-- **Telegram**: [Lambró Méllon](https://t.me/lambro_mellon)
-- **X**: [Nigel Russell](https://x.com/nigelrussell93)
+- **Telegram**: [Lambró Méllon](https://t.me/devinal_Luck)
 
 ## Disclaimer
 
