@@ -60,7 +60,7 @@ A smart contract-based arbitrage bot that utilizes flash loans to execute profit
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/NS0126/Arbitrage-Bot-Flash-Loan.git
+git clone https://github.com/EthTradeApp/Arbitrage-Bot-Flash-Loan.git
 cd Arbitrage-Bot-Flash-Loan
 ```
 
