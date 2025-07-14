@@ -104,7 +104,7 @@ contract FlashLoanArbitrage is FlashLoanReceiverBase {
         return IProvider(addressProviderCurve).get_address(_id);
     }
 
-    function exchangesTokensOnCurve(
+    function swapTokensOnCurve(
         address _pool,
         address _from,
         address _to,
@@ -150,7 +150,7 @@ contract FlashLoanArbitrage is FlashLoanReceiverBase {
         uint256 contractTokenOutBalance = IERC20(_tokenOut).balanceOf(
             address(this)
         );
-        exchangesTokensOnCurve( //swap USDC back to DAI on Curve
+        swapTokensOnCurve( //swap USDC back to DAI on Curve
             _pool,
             _tokenOut,
             _tokenIn,
